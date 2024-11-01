@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历
 ======
 * Ph.D 华中科技大学 2019
 * B.S. 中南民族大学 2015
 
-Work experience
+项目/竞赛经历
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
